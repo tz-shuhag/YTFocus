@@ -1,0 +1,26 @@
+! --- Hide Homepage Feed ---
+youtube.com##ytd-browse[page-subtype*='home']
+
+! --- WATCH PAGE CLEANUP ---
+youtube.com###secondary
+youtube.com###simple-box
+youtube.com###flexible-item-buttons
+youtube.com##ytd-metadata-row-container-renderer
+youtube.com##ytd-comments-header-renderer
+youtube.com###button-shape
+youtube.com##segmented-like-dislike-button-view-model
+youtube.com###subscribe-button
+youtube.com###community-post
+youtube.com##.html5-endscreen
+youtube.com##ytd-comment-engagement-bar
+youtube.com###creator-thumbnail
+
+! --- Center video player layout ---
+youtube.com###primary:style(margin-right: 201px !important; padding-left: 225px !important)
+
+! --- SEARCH PAGE CLEANUP ---
+youtube.com##ytd-shelf-renderer:has(h2:has-text(Latest posts))
+
+! --- Hide voice search and Create button ---
+youtube.com###voice-search-button
+youtube.com##ytd-button-renderer.style-scope.ytd-masthead
