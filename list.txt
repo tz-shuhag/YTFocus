@@ -11,7 +11,6 @@ youtube.com##ytd-metadata-row-container-renderer
 youtube.com##ytd-comments-header-renderer
 youtube.com###button-shape
 youtube.com##segmented-like-dislike-button-view-model
-youtube.com###subscribe-button
 youtube.com###community-post
 youtube.com##.html5-endscreen
 youtube.com##ytd-comment-engagement-bar
