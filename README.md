@@ -1,4 +1,5 @@
 # Youtube Focus
+![Logo](assests/img/icon.png)
 
 A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
 
@@ -14,4 +15,3 @@ Copy the link below, go to uBlock Origin > Dashboard > Filters and paste the lin
 - Microphone Button
 - Video Recommendations
 - Distracting elements in play screen
-
