@@ -1,5 +1,5 @@
 title: Youtube Focus
+#logo: /assets/img/headshot_circle.png
 description: Extension For Youtube
 #show_downloads: true
-#google_analytics:
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
