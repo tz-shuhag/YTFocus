@@ -9,7 +9,6 @@ youtube.com###simple-box
 youtube.com###flexible-item-buttons
 youtube.com##ytd-metadata-row-container-renderer
 youtube.com##ytd-comments-header-renderer
-youtube.com###button-shape
 youtube.com##segmented-like-dislike-button-view-model
 youtube.com###community-post
 youtube.com##.html5-endscreen
