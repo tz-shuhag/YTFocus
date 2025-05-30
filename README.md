@@ -14,9 +14,7 @@ This filter list might work with other content blockers, but I haven't looked in
 6. Click Apply Changes
 
 ## Hides element like
-- Homepage feed
-- Search Page post
-- Create Button
-- Microphone Button
-- Video Recommendations
-- Distracting elements in play screen
+- Homepage -**Feed**
+- Search Page -**Post**
+- Buttons -**Create, Microphone**
+- Player -**Sidebar, Like, Dislike**
