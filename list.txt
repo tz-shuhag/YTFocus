@@ -1,3 +1,5 @@
+! Title: Youtube Focus
+
 ! --- Hide Homepage Feed ---
 youtube.com##ytd-browse[page-subtype*='home']
 
