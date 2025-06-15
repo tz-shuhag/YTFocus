@@ -10,7 +10,7 @@ This filter list might work with other content blockers, but I haven't looked in
 3. Filter Lists
 4. 'Import...'
 5. Paste this link below
-- **https://raw.githubusercontent.com/tz-shuhag/YTFocus/refs/heads/main/list.txt**
+- `https://raw.githubusercontent.com/tz-shuhag/YTFocus/refs/heads/main/list.txt`
 6. Click Apply Changes
 
 ## Hides element like
