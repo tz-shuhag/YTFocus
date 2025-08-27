@@ -1,6 +1,7 @@
 ! Title: Youtube Focus
 
-! --- Hide Homepage Feed ---
+! --- Hide Home icon & Homepage Feed ---
+youtube.com##a[title="Home"]
 youtube.com##ytd-browse[page-subtype*='home']
 
 ! --- WATCH PAGE CLEANUP ---
