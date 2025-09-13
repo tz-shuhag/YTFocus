@@ -1,8 +1,14 @@
 # Youtube Focus - Productive & Efficient
+> [!NOTE]
+> **A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
+This filter list might work with other content blockers, but I haven't looked into that (yet).**
+
+# 🎯 Home Page -
 ![Logo](assests/img/focus.webp)
 
-A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
-This filter list might work with other content blockers, but I haven't looked into that (yet).
+# ▶️▷ Player Page -
+![Player](assests/img/player.webp)
+
 
 # STEPS
 1. uBlock Origin
