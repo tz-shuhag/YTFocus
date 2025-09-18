@@ -4,7 +4,8 @@
 This filter list might work with other content blockers, but I haven't looked into that (yet).**
 
 # 🎯 Home Page -
-![Logo](assests/img/focus.webp)
+![Logo](assests/img/homepage.webp)
+
 
 # ▶️▷ Player Page -
 ![Player](assests/img/player.webp)
