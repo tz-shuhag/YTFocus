@@ -17,7 +17,7 @@ youtube.com##ytd-comment-engagement-bar
 youtube.com###creator-thumbnail
 
 ! --- Center video player layout ---
-youtube.com/watch###primary:style(margin: 0 auto !important)
+youtube.com/watch###primary:style(margin: 0 auto !important; max-width: 75% !important; width: 100% !important; float: none !important)
 
 ! --- SEARCH PAGE CLEANUP ---
 youtube.com##ytd-shelf-renderer:has(h2:has-text(Latest posts))
