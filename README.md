@@ -3,6 +3,9 @@
 > **A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
 This filter list might work with other content blockers, but I haven't looked into that (yet).**
 
+[![Platform](https://img.shields.io/badge/chrome%20|%20firefox%20|%20brave-platform?style=for-the-badge&label=platform&labelColor=21262d&color=238636)](#)
+[![uBlock Origin](https://img.shields.io/badge/uBlock-Origin?style=for-the-badge&logo=ublockorigin&labelColor=21262d&color=800000)](https://ublockorigin.com/)
+
 # 🏠 Home Page -
 ![Logo](assests/img/homepage.webp)
 
