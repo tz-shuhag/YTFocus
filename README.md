@@ -27,4 +27,4 @@ This filter list might work with other content blockers, but I haven't looked in
 - Homepage - **Feed**
 - Search Page - **Post**
 - Buttons - **Create, Microphone**
-- Player - **Sidebar, Like, Dislike**
+- Player Buttons - **Sidebar**
